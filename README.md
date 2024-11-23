@@ -1,2 +1,18 @@
-# CUDA_CNN_acceleration
-Project for ECE277
+# Convolution Neural Network with Tensor Core Acceleration
+
+## Author
+
+- Ya-Chi Liao
+
+## Implementation
+
+
+
+## Code
+
+
+## Report
+
+
+## Prerequisites
+
