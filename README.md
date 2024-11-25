@@ -1,4 +1,4 @@
-# Convolution Neural Network with Tensor Core Acceleration
+# DFT and FFT with CUDA Acceleration
 
 ## Author
 
